@@ -4,7 +4,7 @@
 >
 >> [Read the doc](https://help.author.envato.com/hc/en-us/articles/360000471583-Code-Item-Preparation-Technical-Requirements)
 
-##### <ins>Summary for organizing files & documentation</ins>
+### <ins>Summary for organizing files & documentation</ins>
 
 >To ensure your project is well-structured, easily editable, and adheres to industry best practices, follow these guidelines:
 
@@ -31,7 +31,7 @@
 >   By maintaining a clear and user-focused structure, your file becomes more *valuable* and *attractive* to **buyers**.
 
 
-##### <ins>The reviewer highlighted the following issues that need to be fixed</ins>
+### <ins>The reviewer highlighted the following issues that need to be fixed</ins>
 1.  **Use "strict mode":** Ensure your code starts with "use strict" on **Javascript** for better syntax compliance. Example:
     
 ><code>(function ($) {
@@ -53,7 +53,7 @@ Or top (first line) of the js file
 
 Make these updates to meet the standards and ensure approval. <a href="https://forums.envato.com/t/laravel-projects-requirements-for-approval/381284" target="_blank">See Forum Discussion</a>
 
-##### <ins>In which category a laravel template should upload?</ins>
+### <ins>In which category a laravel template should upload?</ins>
 
 >If you are uploading a Laravel-based website template, it should be submitted under the PHP Scripts category. However, keep these points in mind
 
