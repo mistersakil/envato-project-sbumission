@@ -8,22 +8,22 @@
 
 >To ensure your project is well-structured, easily editable, and adheres to industry best practices, follow these guidelines:
 
-1. File Organization:
+1. **File Organization:**
 
     *   Group related elements into clearly labeled folders (e.g., scripts, images, styles, docs).
     *   Avoid placing all files at the root of your directory.
 
-2.  Code Style:
+2.  **Code Style:**
 
     *  Validate all code to ensure it is error-free.
     *   Use modern coding practices to maintain compatibility and functionality.
 
-3.  Documentation:
+3.  **Documentation:**
 
     *   Provide clear and detailed documentation to guide buyers on how to edit and use the files.
     *   Include step-by-step instructions where necessary.
 
-4.  Editability:
+4.  **Editability:**
 
     *   Write clean and modular code to make customization straightforward.
     *   Use comments and meaningful names for variables, functions, and files to enhance clarity.
@@ -32,7 +32,7 @@
 
 
 ##### <ins>The reviewer highlighted the following issues that need to be fixed</ins>
-**1.  Use "strict mode":** Ensure your code starts with "use strict" on **Javascript** for better syntax compliance. Example:
+1.  **Use "strict mode":** Ensure your code starts with "use strict" on **Javascript** for better syntax compliance. Example:
     
 ><code>(function ($) {
         "use strict";
@@ -41,14 +41,14 @@
 Or top (first line) of the js file 
 ><code>"use strict";</code>
 
-**2.  Proper Event Binding:** Use javascript `.on()` instead of outdated methods like `.click()`, `.bind()`, `.hover()`, `.load()`, or `.ready()`. Example:
+2.  **Proper Event Binding:** Use javascript `.on()` instead of outdated methods like `.click()`, `.bind()`, `.hover()`, `.load()`, or `.ready()`. Example:
 
 ><code>$('#exampleId').on("click", function(event) {
     // Your code here
 });</code>
 
-**3.  Unminified Files:** Provide unminified versions of your code for easier editing.
+3.  **Unminified Files:** Provide unminified versions of your code for easier editing.
 
-**4.    Data Validation:** Always validate data before outputting, echoing, or rendering it.
+4.    **Data Validation:** Always validate data before outputting, echoing, or rendering it.
 
-Make these updates to meet the standards and ensure approval.
+>Make these updates to meet the standards and ensure approval. <a href="https://forums.envato.com/t/laravel-projects-requirements-for-approval/381284" target="_blank">Source</a>
