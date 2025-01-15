@@ -69,6 +69,12 @@ Make these updates to meet the standards and ensure approval. <a href="https://f
 Ensure your item aligns with the subcategory’s purpose and is optimized for flexibility and performance. <a href="https://forums.envato.com/t/uploading-a-laravel-website-template-which-category/411674/4" target="_blank">See Forum Discussion</a>
 
 
+start from here
+https://help.author.envato.com/hc/en-us/articles/360000536823-Common-Rejection-Factors-for-Code-Items
+
+#### Help Resource
+https://help.author.envato.com/hc/en-us/articles/360000471943-How-to-Upload-Your-Items-to-Envato
+https://help.author.envato.com/hc/en-us/articles/360000471923-How-to-Get-Your-Items-Through-Review-at-Envato
 
 
 
